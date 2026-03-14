@@ -12,3 +12,5 @@ Labeling:
 - `bug` for reproducible problems
 - `enhancement` for new features
 - `help wanted` when maintainers request assistance
+
+`Bug` kann es sein das wenn der Druck fertig ist und ich nach 10 Minuten noch einen Druck machen möchte sich der Esp32 nicht auf den neuen Status umschaltet ? ich musste den Esp32 Mini reseten um eine korrekte anzeige zu bekommen. Liebe grüsse aus Österreich
